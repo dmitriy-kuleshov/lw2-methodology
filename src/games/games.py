@@ -35,10 +35,10 @@ def progression(username):
         mystery_sequence = output_sequence.replace(str(answer), "..", 1)
 
         print(f"Question: {mystery_sequence}")
-        user_answer = int(input("Your answer: "))
-        if user_answer == answer:
+        assumption = int(input("Your answer: "))
+        if assumption == answer:
             print(f"Correct!\nCongratulation, {username}")
             break
         else:
-            print(f"'{user_answer}' is wrong answer;(.Correct answer was '{answer}'.\n Let's try again, {username}!")
+            print(f"'{assumption}' is wrong answer;(.Correct answer was '{answer}'.\n Let's try again, {username}!")
             attempts += 1
