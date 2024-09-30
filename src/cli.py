@@ -1,7 +1,3 @@
-import random
-import math
-
-
 def welcome():
     print("Welcome to the Brain Games!")
     username = input("May I have your name?")
