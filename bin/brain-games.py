@@ -1,5 +1,6 @@
 from src.cli import welcome
-from src.games.games import lcm_alg, progression
+from src.games.lcm_game import lcm_alg
+from src.games.progression_game import progression
 
 user_name = welcome()
 game_num = int(
