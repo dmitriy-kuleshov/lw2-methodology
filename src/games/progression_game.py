@@ -1,5 +1,5 @@
 import random
-from src.manage import attempt_quiz
+from src.cli import attempt_quiz
 
 
 def progression_question():
