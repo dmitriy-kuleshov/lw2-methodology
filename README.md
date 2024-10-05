@@ -8,7 +8,7 @@
 
 https://asciinema.org/a/TSV8yUrJsaiyU0K0XMfemLjfe
 
-<script src="https://asciinema.org/a/TSV8yUrJsaiyU0K0XMfemLjfe.js" id="asciicast-TSV8yUrJsaiyU0K0XMfemLjfe" async="true"></script>
+[![asciicast](https://asciinema.org/a/TSV8yUrJsaiyU0K0XMfemLjfe.svg)](https://asciinema.org/a/TSV8yUrJsaiyU0K0XMfemLjfe)
 
 Для выполнения работы был использован язык программирования Python и самый распространённый линтер для этого языка - flake8.
 
